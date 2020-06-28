@@ -16,7 +16,7 @@ In particular, you will:
 # Applications of Computer vision to medical diagnosis
 <p align="center"><img width="50%" src="./images/LungCACXR.png"></p>
 
-- Definition of "Lung Mass": A lung mass is defined as an abnormal spot or area in the lungs that are more than 3 centimeters (cm), about 1.5 inches, in size. Spots smaller than 3 cm in diameter are considered lung nodules. The most common causes of a lung mass differ from that of a lung nodule, as well as the chance that the abnormality may be cancer. [[ref](https://www.verywellhealth.com/lung-mass-possible-causes-and-what-to-expect-2249388)]
+- Definition of "Lung Mass": A lung mass is defined as an abnormal spot or area in the lungs that are more than 3 centimeters (cm), about 1.5 inches, in size. Spots smaller than 3 cm in diameter are considered lung nodules. The most common causes of a lung mass differ from that of a lung nodule, as well as the chance that the abnormality may be cancer. [ref](https://www.verywellhealth.com/lung-mass-possible-causes-and-what-to-expect-2249388)
 
 Even though we do not know above definition of "Lung Mass", we can verify whether it is normal or abnormal by inspecting a lot of examples of normal/abnormal : This is how we teach the deep learning models.
 
@@ -28,7 +28,7 @@ Even though we do not know above definition of "Lung Mass", we can verify whethe
 ### Medical Image Diagnosis
 Examples of Medical image diagnosis
 - Dermatology(the branch of medicine dealing with the skin) and skin cancer detection
-- Ophthalmology (the diagnosis and treatment of eye disorders) [[LINK](https://www.mobihealthnews.com/content/google-researchers-use-deep-learning-detect-diabetic-retinopathy-upwards-90-percent-accuracy)]
+- Ophthalmology (the diagnosis and treatment of eye disorders) [LINK](https://www.mobihealthnews.com/content/google-researchers-use-deep-learning-detect-diabetic-retinopathy-upwards-90-percent-accuracy)
 <p align="center"><img width="50%" src="./images/eye.png"></p>
 
 - Histopathology, a medical specialty involving examination of tissues under the microscope.
