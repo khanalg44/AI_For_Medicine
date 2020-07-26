@@ -1,5 +1,7 @@
 # AI For Medicine (Coursera)
 
+Following are the 3 courses for [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine).
+
 ## 1. AI for Medical Diagnosis
 * Chest X-Ray Medical Diagnosis with Deep Learning
     * Data Exploration
@@ -24,3 +26,6 @@
 * Estimating Treatment Effect Using ML      
     * Logistic Regression Model
 * Natural Language Entity Extraction
+   - Build a treatment effect predictor, apply model interpretation techniques
+   - Natural language processing to extract information from radiology reports
+   - Explore how Natural language extraction can more efficiently label medical datasets.
