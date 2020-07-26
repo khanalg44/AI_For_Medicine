@@ -1,6 +1,6 @@
 # AI For Medicine (Coursera)
 
-Following are the 3 courses for [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine).
+Following are the 3 courses in AI for Medicine Specialization [from Coursera](https://www.coursera.org/specializations/ai-for-medicine).
 
 ## 1. AI for Medical Diagnosis
 * Chest X-Ray Medical Diagnosis with Deep Learning
