@@ -19,7 +19,7 @@
 * week1/week1_ex02_Risk_Scores.ipynb
 * week1/week1_ex03_Combine_features.ipynb
 * week1/week1_ex04_Concordance index.ipynb
-* week2/C2M2_Assignment.ipynb
+* week2/Risk_Models_Using_Tree-based_Models.ipynb
 * week2/C2_W2_lecture.ipynb
 * week3/C2_W3_Lecture_Count_patients_and_Kaplan-Meier.ipynb
 * week3/Survival_Estimates_that_Vary_with_Time.ipynb
