@@ -6,10 +6,7 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-__location__ = os.path.realpath(
-    os.path.join(os.getcwd(), os.path.dirname(__file__))
-)
-
+data_dir = './dataset/'
 
 def cindex(y_true, scores):
     return lifelines.utils.concordance_index(y_true, scores)
@@ -48,8 +45,8 @@ def prob_drop(age):
 
 def nhanesi(display=False):
     """Same as shap, but we use local data."""
-    X = pd.read_csv(os.path.join(__location__, './data/NHANESI_subset_X.csv'))
-    y = pd.read_csv(os.path.join(__location__, './data/NHANESI_subset_y.csv'))["y"]
+    X = pd.read_csv(os.path.join(data_dir, 'NHANESI_subset_X.csv'))
+    y = pd.read_csv(os.path.join(data_dir, 'NHANESI_subset_y.csv'))["y"]
     if display:
         X_display = X.copy()
         X_display["Sex"] = ["Male" if v == 1 else "Female" for v in X["Sex"]]
