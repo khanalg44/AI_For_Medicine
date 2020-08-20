@@ -31,7 +31,7 @@ Following are the 3 courses in AI for Medicine Specialization [from Coursera](ht
    - Explore how Natural language extraction can more efficiently label medical datasets.
 
 
-# Some open source data set available
+# Some open-source health care data
 
 * [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
 * [Alzheimer's Disease Neuriimaging initiative (ADNI)](http://adni.loni.usc.edu/) 
@@ -39,4 +39,4 @@ Following are the 3 courses in AI for Medicine Specialization [from Coursera](ht
 * [UK Biobank](https://www.ukbiobank.ac.uk/)
 * [Millennium Cohort Study ](https://www.millenniumcohort.org/)
 * [CALIBER (EHR and admin data) ](https://caliberresearch.org/portal)
-* UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/index.php)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
