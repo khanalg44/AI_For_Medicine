@@ -22,10 +22,21 @@ Following are the 3 courses in AI for Medicine Specialization [from Coursera](ht
     * Hazard Function
 * Cox Proportional Hazards and Random Survival Forests
 
-## 3. AI for Medical Treatment
+## 3. AI for Medical Treatment (Not finished yet)
 * Estimating Treatment Effect Using ML      
     * Logistic Regression Model
 * Natural Language Entity Extraction
    - Build a treatment effect predictor, apply model interpretation techniques
    - Natural language processing to extract information from radiology reports
    - Explore how Natural language extraction can more efficiently label medical datasets.
+
+
+# Some open source data set available
+
+* [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
+* [Alzheimer's Disease Neuriimaging initiative (ADNI)](http://adni.loni.usc.edu/) 
+* [Health and Retirement Study (HRS)](https://hrs.isr.umich.edu/data-products)
+* [UK Biobank](https://www.ukbiobank.ac.uk/)
+* [Millennium Cohort Study ](https://www.millenniumcohort.org/)
+* [CALIBER (EHR and admin data) ](https://caliberresearch.org/portal)
+* UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/index.php)
