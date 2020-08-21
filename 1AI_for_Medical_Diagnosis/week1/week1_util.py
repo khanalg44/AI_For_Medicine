@@ -3,6 +3,7 @@ import random
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
+import tensorflow as tf
 from keras import backend as K
 from keras.preprocessing import image
 from sklearn.metrics import roc_auc_score, roc_curve
@@ -41,7 +42,9 @@ def grad_cam(input_model, image, cls, layer_name, H=320, W=320):
     """GradCAM method for visualizing input saliency."""
     y_c = input_model.output[0, cls]
     conv_output = input_model.get_layer(layer_name).output
-    grads = K.gradients(y_c, conv_output)[0]
+    #grads = K.gradients(y_c, conv_output)[0]
+    grads = tf.GradientTape(y_c, conv_output)[0]
+    # tf.GradientTape 
 
     gradient_function = K.function([input_model.input], [conv_output, grads])
 
