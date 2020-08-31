@@ -30,8 +30,9 @@ Following are the 3 courses in AI for Medicine Specialization [from Coursera](ht
    - Natural language processing to extract information from radiology reports
    - Explore how Natural language extraction can more efficiently label medical datasets.
 
-## A nice MIT AI FOR HEALTHCARE Course
-* [course](https://mlhc19mit.github.io/)
+## Some nice resources
+* [Mit Course website](https://mlhc19mit.github.io/)
+* [healthcare.ai Git repo](https://github.com/HealthCatalyst/healthcareai-py)
 
 # Some open-source health care data
 
