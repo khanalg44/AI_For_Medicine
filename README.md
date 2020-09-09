@@ -2,33 +2,37 @@
 
 Following are the 3 courses in AI for Medicine Specialization [from Coursera](https://www.coursera.org/specializations/ai-for-medicine).
 
-## 1. AI for Medical Diagnosis
-* Chest X-Ray Medical Diagnosis with Deep Learning
-    * Data Exploration
-    * Weight Loss
-    * Densenet
-    * Overlap and Leakage
-* Evaluation of Diagnostic Models
-* Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
-    * Unet Model
+## Course 1. AI for Medical Diagnosis
+**1. Chest X-Ray Medical Diagnosis with Deep Learning**
+  - Data Exploration
+  - Weight Loss
+  - Densenet
+  - Overlap and Leakage
+**2. Evaluation of Diagnostic Models**
 
-## 2. AI for Medical Prognosis
-* Linear Risk Model
-    * Risk Scores
-    * Combine Features
-    * Concordance Index
-* Risk Model using Tree Based Models
-* Survival Estimates that vary with time
-    * Hazard Function
-* Cox Proportional Hazards and Random Survival Forests
+**3. Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)**
+  - Unet Model
 
-## 3. AI for Medical Treatment (Not finished yet)
-* Estimating Treatment Effect Using ML      
-    * Logistic Regression Model
-* Natural Language Entity Extraction
-   - Build a treatment effect predictor, apply model interpretation techniques
-   - Natural language processing to extract information from radiology reports
-   - Explore how Natural language extraction can more efficiently label medical datasets.
+## Course 2. AI for Medical Prognosis
+**1. Linear Risk Model**
+  - Risk Scores
+  - Combine Features
+  - Concordance Index
+
+**2. Risk Model using Tree Based Models**
+  - Survival Estimates that vary with time
+  - Hazard Function
+
+**3. Cox Proportional Hazards and Random Survival Forests**
+
+## Course 3. AI for Medical Treatment (Not finished yet)
+**1. Estimating Treatment Effect Using ML**
+  - Logistic Regression Model
+
+**2. Natural Language Entity Extraction**
+  - Build a treatment effect predictor, apply model interpretation techniques
+  - Natural language processing to extract information from radiology reports
+  - Explore how Natural language extraction can more efficiently label medical datasets.
 
 ## Some nice resources
 * [Mit Course website](https://mlhc19mit.github.io/)
